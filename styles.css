@@ -1,0 +1,108 @@
+body {
+    display: block;
+    text-align: center;
+    font-size: 25px;
+    color: #939aa9;
+    font-family: "Heebo", sans-serif;
+    font-weight: 300;
+    background: linear-gradient(rgb(229, 206, 232) 34%, rgb(143, 166, 177));
+  }
+  .date {
+    font-style: inherit;
+    color: #2a0712;
+    display: block;
+    margin: 30px 0 0 0;
+    font-size: 55px;
+  }
+  
+  .weatherwhole {
+    display: block;
+    margin: 0 450px;
+    padding: 70px;
+    border: 1px solid #270420;
+    background-color: rgb(223, 191, 215);
+    border-radius: 0 0 7px 7px;
+    color: #da42ef;
+  }
+  .sun {
+    margin: -1px;
+    font-size: 85px;
+    vertical-align: middle;
+  }
+  .km {
+    font-size: 15px;
+  }
+  .words {
+    color: rgb(8, 37, 41);
+    font-weight: bolder;
+    font-size: 25px;
+    text-align: left;
+    vertical-align: middle;
+  }
+  .searchcity {
+    color: black;
+    background-color: transparent;
+    border-radius: 20px;
+    border: 1px solid #270420;
+    box-shadow: 3px 3px 5px rgba(210, 27, 234, 0.1);
+  }
+  
+  .search_butn {
+    max-width: 90px;
+    margin: 10 auto;
+    display: block;
+    border: 1px solid #270420;
+    border-radius: 20px;
+    margin-left: 290;
+    margin-top: -40;
+    background-color: rgb(223, 191, 215);
+  }
+  .search_butnn {
+    max-width: 200px;
+    margin: 10px auto;
+    display: block;
+    border: 1px solid #23c939ad;
+    border-radius: 20px;
+    margin-left: 370;
+    margin-top: -51;
+    background-color: rgb(42, 216, 68);
+  }
+  
+  .statement {
+    font-style: italic;
+    margin: 0 0 30px;
+    color: rgb(8, 37, 41);
+    font-weight: bold;
+  }
+  .weather-description-statement,
+  .weather-city-statement {
+    color: black;
+    font-weight: 600;
+  }
+  .maindegree {
+    font-style: italic;
+    font-display: bold;
+    color: rgb(38, 5, 33);
+    font-size: 65px;
+    margin: 15 15px 0 -25px;
+  }
+  .measurements {
+    font-size: 25px;
+    font-weight: bold;
+    color: #25031b;
+  }
+  .units {
+    font-size: 17px;
+    color: #3d092a;
+  }
+  .weather-forecast-temperature {
+    font-weight: bold;
+    color: #300929;
+  }
+  a,
+  a:visited {
+    text-decoration: none;
+    color: #2a0712;
+    font-size: 20px;
+  }
+  
